@@ -3,7 +3,8 @@ module.exports = [
         id: "nYLd-i4KA1o",
         title: "Melhores Momentos Carreira e Mercado",
         duration: "32 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "BwwOu29K6mE",
@@ -21,13 +22,15 @@ module.exports = [
         id: "ShnSc0DD1z4",
         title: "TypeScript Vale a Pena? JavaScript",
         duration: "35 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "BvhYm0BOLvA",
         title: "Dark Raiz com CSS e JavaScript",
         duration: "17 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "j0MCdrqN8nU",
